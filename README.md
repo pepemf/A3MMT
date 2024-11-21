@@ -74,9 +74,9 @@ Este é um projeto de um Gerenciador de Senhas desenvolvido como parte do curso.
     cd seu-repositorio
     ```
 
-2. Execute o script `rodar_projeto.py`:
+2. Execute o script `rodar_projeto.bat`:
     ```bash
-    python app/rodar_projeto.py
+    app/rodar_projeto.bat
     ```
 3. Acesse a aplicação no navegador:
     ```
